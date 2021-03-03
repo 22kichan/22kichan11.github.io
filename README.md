@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# 이기찬의 github 홈페이지​
 
-You can use the [editor on GitHub](https://github.com/22kichan/22kichan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 프로젝트 주제​
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+통합계좌 관리 금융시스템입니다.​
 
-### Markdown
+## 전체 설계도​
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="architecture.png"/><br> ​
 
-```markdown
-Syntax highlighted code block
+[발표자료](/project.pptx)<br>​
 
-# Header 1
-## Header 2
-### Header 3
+## 발표 동영상​
 
-- Bulleted
-- List
+발표 동영상입니다.​
 
-1. Numbered
-2. List
+<iframe id="ytplayer" type="text/html" width="640" height="360"  src="https://www.youtube.com/embed/v=LTKW78rUizM" frameborder="0"></iframe>​
 
-**Bold** and _Italic_ and `Code` text
+## Reference​
 
-[Link](url) and ![Image](src)
-```
+[검색엔진](https://naver.com)​
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/22kichan/22kichan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Repository 1](https://{github-id}.github.io/{repository-name}) 
