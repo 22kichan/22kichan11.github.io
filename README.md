@@ -13,7 +13,7 @@
 ## 발표 동영상​
 
 발표 동영상입니다.​
-<iframe width="956" height="538" src="https://www.youtube.com/LTKW78rUizM/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
 ## Reference​
 
 [검색엔진](https://naver.com)​
