@@ -6,7 +6,7 @@
 
 ## 전체 설계도​
 
-<img src="architecture.png"/><br> ​
+<img src="2160340102_이기찬.jpg"/><br> ​
 
 [발표자료](/project.pptx)<br>​
 
