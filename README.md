@@ -2,7 +2,7 @@
 
 ## 프로젝트 주제​
 
-통합계좌 관리 금융시스템입니다.​
+## 광명융합기술원 과제 영상입니다.
 
 ## 전체 설계도​
 
@@ -10,12 +10,12 @@
 
 [발표자료](/project.pptx)<br>​
 
-## 발표 동영상​
+## 2021.03.03 ​
 
-발표 동영상입니다.​
 <iframe width="787" height="443" src="https://www.youtube.com/embed/LTKW78rUizM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Reference​
 
-[검색엔진](https://naver.com)​
+## 2021.03.04
+
+<iframe width="1174" height="547" src="https://www.youtube.com/embed/hmNaoRPwMxM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Repository 1](https://{github-id}.github.io/{repository-name}) 
