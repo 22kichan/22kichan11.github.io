@@ -9,7 +9,7 @@
 
 ## 2021.03.03 ​
 
-<iframe width="1519" height="554" src="https://www.youtube.com/embed/28oY5sACFgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/28oY5sACFgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2021.03.04
 
